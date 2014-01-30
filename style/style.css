@@ -1,0 +1,230 @@
+body
+{
+ width: 1293px;
+ height: 800px;  
+ padding: 0;
+ margin: 0px;
+ margin-bottom: 0;
+ background: url(../img/backgame.jpg) no-repeat;
+ overflow: hidden;
+}
+html
+{
+overflow: hidden;	
+}
+#b1
+{
+position: fixed;
+overflow: hidden;	
+	margin-left: 520px;
+	margin-top: 610px;
+}
+#b2
+{
+position: fixed;
+overflow: hidden;
+	margin-left: 600px;
+	margin-top: 610px;
+}
+#b3
+{
+position: fixed;
+overflow: hidden;
+	margin-left: 520px;
+	margin-top: 610px;
+}
+#movie
+{
+margin-left: 5px;	
+}
+
+#lust
+{
+position: fixed;
+overflow: hidden;
+margin-left: 0px;	
+}
+
+#sc1
+{
+position: fixed;
+overflow: hidden;
+}
+
+#sc2
+{
+margin-top: 800px;	
+}
+#sc3
+{
+margin-top: 800px;
+}
+
+ #gameborder
+ {
+
+ }
+ #video
+ {
+  margin-top: 800px;		
+ }
+
+
+
+
+#error
+{
+	position: fixed;
+	overflow: hidden;
+	margin-left: 320px;
+	margin-top: 310px;
+}
+
+
+
+
+#sc2text
+{
+position: fixed;
+	overflow: hidden;
+	margin-left: 30px;
+	margin-top: 70px;
+}
+#tv1
+{
+position: fixed;
+	overflow: hidden;
+	margin-left: 80px;
+	margin-top: 270px;
+}
+#tv2
+{
+position: fixed;
+	overflow: hidden;
+	margin-left: 450px;
+	margin-top: 280px;
+}
+#tv3
+{
+	position: fixed;
+	overflow: hidden;
+	margin-left: 800px;
+	margin-top: 280px;
+}
+
+
+
+#line
+{
+position: fixed;overflow: hidden;margin-top: 350px;
+}
+#winston{position: fixed;overflow: hidden;margin-top: 370px; margin-left: 180px;}
+#parlament{position: fixed;overflow: hidden;margin-top: 370px; margin-left: 530px;}
+#kent{position: fixed;overflow: hidden;margin-top: 370px; margin-left: 920px;}
+#sc1text{position: fixed; overflow: hidden; margin-top: 100px; margin-left: 30px;}
+
+
+
+
+
+
+.try
+{
+	margin-left: 780px;
+	margin-top: 270px;
+	position: fixed;
+	overflow: hidden;
+}
+
+#arrow1
+{
+    position: fixed;
+	overflow: hidden;
+	margin-left: 500px;
+	margin-top: 10px;
+}
+#arrow2
+{
+	position: fixed;
+	overflow: hidden;
+	margin-top: 260px;
+	margin-left: 500px;
+}
+#arrow3
+{
+	position: fixed;
+	overflow: hidden;
+	margin-top: 500px;
+	margin-left: 500px;
+}
+#filter1
+{
+	margin-left: 270px;
+	margin-top: 0px;
+	position: fixed;
+	overflow: hidden;
+	z-index: 100;
+	
+}
+#filter2
+{
+	position: fixed;
+	overflow: hidden;
+	margin-top: 250px;
+	margin-left: 280px;
+	
+}
+#filter3
+{
+	position: fixed;
+	overflow: hidden;
+	margin-top: 485px;
+	margin-left: 280px;
+	
+}
+
+#text1{
+    position: fixed;
+	overflow: hidden;
+	margin-left: 22px;
+	margin-top: 40px;
+}
+#text2{
+
+	position: fixed;
+	overflow: hidden;
+	margin-top: 295px;
+	margin-left: -2px;
+}
+#text3{
+	position: fixed;
+	overflow: hidden;
+	margin-top: 520px;
+	margin-left: 45px;
+}
+#textcatch
+{
+position: fixed;
+overflow: hidden;
+margin-top: 675px;	
+}
+#cornertext
+{
+position: fixed;
+	overflow: hidden;
+	margin-top: 735px;
+	margin-left: 1100px;
+}
+#cigs
+{
+position: fixed;
+overflow: hidden;
+	margin-top: 80px;
+	margin-left: 210px;
+}
+#win
+{
+position: fixed;
+overflow: hidden;
+	margin-left: 270px;
+}
